@@ -26,3 +26,17 @@
     line-height: 32px;
 }
 
+.line {
+    height: 1px;
+    background-color: black;
+}
+
+.multi-image {
+    background-image: url(/assets/img/ImgPlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.multi-container {
+    height: 448px;
+}
