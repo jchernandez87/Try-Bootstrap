@@ -1,0 +1,72 @@
+.header {
+    background-color: #1c1a19;
+    height: 870px;
+}
+
+.icon-links { 
+    list-style-type: none;
+    color: #cfcfcf;
+}
+
+.head-about h1 {
+    font-size: 72px;
+    color: #f55800;
+    line-height: 81,5px;
+}
+
+.head-about h2 {
+    font-size: 32;
+    color: white;
+    line-height: 44px;
+}
+
+.head-about p {
+    font-size: 20px;
+    color: #f4f5f7;
+    line-height: 32px;
+}
+
+.works {
+    padding: 0 10%;
+}
+
+.line {
+    height: 1px;
+    background-color: black;
+}
+
+.multi-image {
+    background-image: url(/assets/img/ImgPlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-buttons {
+    list-style: none;
+    padding-left: 0;
+    background-color: transparent;
+}
+
+.leftcard {
+    background-image: url(/assets/img/leftimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 448px;
+    max-width: 369px;
+}
+
+.midcard {
+    background-image: url(/assets/img/midimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 448px;
+    max-width: 369px;
+}
+
+.rightcard {
+    background-image: url(/assets/img/rightimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 448px;
+    max-width: 369px;
+}
