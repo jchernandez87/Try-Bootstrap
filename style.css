@@ -26,6 +26,10 @@
     line-height: 32px;
 }
 
+.works {
+    padding: 0 10%;
+}
+
 .line {
     height: 1px;
     background-color: black;
@@ -37,6 +41,32 @@
     background-size: cover;
 }
 
-.multi-container {
-    height: 448px;
+.card-buttons {
+    list-style: none;
+    padding-left: 0;
+    background-color: transparent;
+}
+
+.leftcard {
+    background-image: url(/assets/img/leftimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 448px;
+    max-width: 369px;
+}
+
+.midcard {
+    background-image: url(/assets/img/midimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 448px;
+    max-width: 369px;
+}
+
+.rightcard {
+    background-image: url(/assets/img/rightimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 448px;
+    max-width: 369px;
 }
